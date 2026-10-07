@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solomonawusah.com/sitemap.xml
